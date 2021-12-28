@@ -10,6 +10,7 @@ In IT sphere the results of my work depend only on my efforts, there are a great
 I love to cope with tasks that others find overwhelming. I love it when the results of your labors are visible and tangible - it brings pleasure and the desire to continue these labors.  
 
 ---
+
 ### Skills:
 * HTML basics
 * CSS basics
@@ -18,10 +19,14 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * VS Code, Sublime Text
 * Unity (basic)
 * Adobe Photoshop, Adobe Illustrator, Figma
+
 ---
+
 ### Code example
 ```<h1>Hello RS School</h1>```
+
 ---
+
 ### Education
 * SFEDU, ecology (batchelor)
 * SFEDU, pedagogy (master)
@@ -31,10 +36,14 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * Hexlet
 * GLO Academy
 * From 0 to 1 (in progress)
+
 ---
+
 ### Language
 * Russian - native
 * German - beginner
 * English - B2 upper-intermediate (uprade in progress)
+
 ---
+
 ![avatar](https://openclipart.org/image/800px/323616)
