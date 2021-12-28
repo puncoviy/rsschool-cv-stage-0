@@ -1,7 +1,7 @@
 
 
-# Имя и фамилия
-## Контакты для связи
+# Yuriy Orlinskiy
+## @puncoviy
 
 ### About me:
 Current student and future graduate of RS-School in the direction of front-end developer.
@@ -11,13 +11,25 @@ In IT sphere the results of my work depend only on my efforts, there are a great
 I love to cope with tasks that others find overwhelming. I love it when the results of your labors are visible and tangible - it brings pleasure and the desire to continue these labors.
 
 ### Skills:
+* HTML basics
+* CSS basics
+* Git very-basics
+* C# very-basics
+* VS Code, Sublime Text
+* Unity (basic)
+* Adobe Photoshop, Adobe Illustrator, Figma
 
+### Code example
+```<h1>Hello RS School</h1>```
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-
-Образование (включая пройденные курсы и тренинги)
+### Education
+SFEDU, ecology (batchelor)
+SFEDU, pedagogy (master)
+SFEDU, pedology (PHD, in progress)
+RS-School (in progress)
+HTML-Academy
+Hexlet
+GLO Academy
+From 0 to 1 (in progress)
 
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
