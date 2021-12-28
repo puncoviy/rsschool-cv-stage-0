@@ -9,7 +9,7 @@ I have never studied programming, although I had experience working in a company
 In IT sphere the results of my work depend only on my efforts, there are a great many areas for the development of skills.  
 I love to cope with tasks that others find overwhelming. I love it when the results of your labors are visible and tangible - it brings pleasure and the desire to continue these labors.  
 
----
+-
 
 ### Skills:
 * HTML basics
@@ -20,12 +20,12 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * Unity (basic)
 * Adobe Photoshop, Adobe Illustrator, Figma
 
----
+-
 
 ### Code example
 ```<h1>Hello RS School</h1>```
 
----
+-
 
 ### Education
 * SFEDU, ecology (batchelor)
@@ -37,13 +37,13 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * GLO Academy
 * From 0 to 1 (in progress)
 
----
+-
 
 ### Language
 * Russian - native
 * German - beginner
 * English - B2 upper-intermediate (uprade in progress)
 
----
+-
 
 ![avatar](https://openclipart.org/image/800px/323616)
