@@ -18,12 +18,12 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * C# very-basics
 * VS Code, Sublime Text
 * Unity (basic)
-* Adobe Photoshop, Adobe Illustrator, Figma
+* Adobe Photoshop, Adobe Illustrator, Figma  
 
 ---
 
 ### Code example
-```<h1>Hello RS School</h1>```
+```<h1>Hello RS School</h1>```  
 
 ---
 
@@ -35,14 +35,14 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * HTML-Academy
 * Hexlet
 * GLO Academy
-* From 0 to 1 (in progress)
+* From 0 to 1 (in progress)  
 
 ---
 
 ### Language
 * Russian - native
 * German - beginner
-* English - B2 upper-intermediate (uprade in progress)
+* English - B2 upper-intermediate (uprade in progress)  
 
 ---
 
