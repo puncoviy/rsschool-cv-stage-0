@@ -2,7 +2,6 @@
 
 # Yuriy Orlinskiy
 ## @puncoviy
----
 ### About me:
 Current student and future graduate of RS-School in the direction of front-end developer.  
 I came here to gain relevant knowledge in this area, I want to solve tasks that just recently seemed like magic to me.  
