@@ -37,4 +37,5 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 * Russian - native
 * German - beginner
 * English - B2 upper-intermediate (uprade in progress)
-
+---
+![avatar](https://openclipart.org/image/800px/323616)
