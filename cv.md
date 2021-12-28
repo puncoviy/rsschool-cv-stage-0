@@ -32,4 +32,8 @@ Hexlet
 GLO Academy
 From 0 to 1 (in progress)
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### Language
+Russian - native
+German - beginner
+English - B2 upper-intermediate (uprade in progress)
+
