@@ -23,9 +23,11 @@ body {
   }
 
 .header, .main, .footer {
-    margin: 0;
-    border: 1px solid red;
+    margin: 0 30px;
+    border-bottom: 2px solid #07721548;
 }
+
+
 
 .container {
     max-width: 1440px;
@@ -33,16 +35,12 @@ body {
   }
 
   
-/* .section {
-    width: 50%;
-  } */
-
 .section-title {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #077216;
 }
 
 .nav-list {
@@ -57,11 +55,11 @@ body {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
-    color: #829985;
+    color: #077216;
   }
 
 .nav-link:hover {
-    color: red;
+    color: rgb(255, 140, 0);
     transition: .3s;
 }
 
@@ -88,4 +86,18 @@ body {
 
 .code {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+    border: none;
+    padding-top: 15px;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer img{
+    height: 40px;
 }
